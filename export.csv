@@ -1,0 +1,3 @@
+null;null;null;Austria;20.00;10.00;13.00;false;12.00
+null;null;null;Czech Republic;21.00;15.00;10.00;false;false
+Duplicate of GB for convenience; the EU uses the country code 'UK' for the United Kingdom, while ISO uses 'GB'.;null;UK;United Kingdom;20.00;5.00;false;false;false
